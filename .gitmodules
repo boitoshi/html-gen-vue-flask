@@ -1,0 +1,3 @@
+[submodule "Spreadsheet-to-HTML"]
+	path = Spreadsheet-to-HTML
+	url = https://github.com/boitoshi/Spreadsheet-to-HTML
